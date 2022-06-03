@@ -2,10 +2,12 @@
 Here are stuff that you need to do. Feel free to add, modify, or delete stuff in the html file as long as the layout looks exactly the same.
 You can also rename the html files if you'd like, as long as they make sense.
 
-And uh please try to center divs vertically in some webpages. Would be greatly appreciated :')
+And uh please try to center divs vertically in some webpages. Would be greatly appreciated. :')
 
 Also pls read everything before doing these because some tasks are related to different parts of the website.
 It's like task A requires both webpage B and C to fully function.
+
+Please read until finish. Thank you.
 
 # index.html
 ### div.part-1
@@ -33,7 +35,7 @@ It's like task A requires both webpage B and C to fully function.
 Those are just my social media. Ignore them.
 
 # control
-This is a really, really, REALLY secretive one. Remember about what I said in **dive.part-3**? Yeah like that but this one's more private and **only you and me are allowed know this**.
+This is a really, really, REALLY secretive one.Remember about what I said in **dive.part-3**? Yeah like that but this one's more private and **only you and me are allowed know this**.
 
 - If I press Ctrl+shift+f, a search bar must appear with an enter button. it looks like something in **meke-meke-mooie.html**, I know the name's kinda stupid.
 The search bar has to float on the botton right corner.
@@ -74,4 +76,7 @@ These steps have to be in order, otherwise make the search bar disappear.
 - Highlight "How are rewards calculated?" if user clicked the link from "How are rewards calculated?" in index.html.
 
 
-# End of file - All of the things listed above are required.
+# End of file - All the things listed above are of extreme importance.
+- If you don't know how to do a certain task, find another way. notify me how it works if it's different from what I requested.
+- If I haven't specified something clearly or need more information on something, please tell me.
+- Deadline would be at the end of June. I can extend it to the end of July but by then I'll have to assume that you've fixed all possible bugs and also optimized performance.
