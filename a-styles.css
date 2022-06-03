@@ -1,0 +1,85 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    font-size: 17px;
+    -webkit-tap-highlight-color: transparent;
+}
+::selection{
+    background-color: #547eda;
+    color: white;
+}
+a {
+    text-decoration: none;
+    color: #547eda;
+    transition: .3s;
+}
+a:hover {
+    color: black;
+}
+h3 {
+    font-size: 30px;
+}
+.how {
+    text-align: center;
+    margin-top: 30px;
+}
+.full {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.paras {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 6px;
+}
+.part-1, .part-2, .part-3, .part-4 {
+    background-color: white;
+    border-radius: 30px;
+    padding: 40px;
+    box-shadow: 0px 9px 30px rgb(226, 226, 226);
+    margin: 40px;
+    width: fit-content;
+    transition: .3s;
+}
+.part-2, .part-3, .part-4 {
+    width: 300px;
+}
+input, textarea {
+    border-style: none;
+    border-radius: 30px;
+    padding: 15px;
+    box-shadow: 0px 5px 30px rgb(226, 226, 226);
+}
+input:focus, textarea:focus {
+    outline-style: none;
+}
+button {
+    background-color: #547eda;
+    outline: 2px solid #547eda;
+    border-style: none;
+    color: white;
+    border-radius: 30px;
+    padding: 10px 20px;
+    box-shadow: 0px 5px 30px #547edaad;
+    transition: .3s;
+}
+button:hover {
+    background-color: white;
+    color: #547eda;
+    box-shadow: none;
+}
+@media only screen and (max-width: 1132px) {
+    .full {
+        display: flex;
+        flex-direction: column;
+    }
+    .part-1, .part-2, .part-3, .part-4 {
+        width: auto;
+        margin: 15px;
+    }
+    textarea, input {
+        width: 90%;
+        max-width: 600px;
+    }
+}
