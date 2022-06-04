@@ -34,8 +34,8 @@ Please read until finish. Thank you.
 ### div.part-4
 Those are just my social media. Ignore them.
 
-# control
-This is a really, really, REALLY secretive one.Remember about what I said in **dive.part-3**? Yeah like that but this one's more private and **only you and me are allowed know this**.
+# control (index.html)
+This is a really, really, REALLY secretive one. Remember about what I said in **dive.part-3**? Yeah like that but this one's more private and **only you and me are allowed know this**.
 
 - If I press Ctrl+shift+f, a search bar must appear with an enter button. it looks like something in **meke-meke-mooie.html**, I know the name's kinda stupid.
 The search bar has to float on the botton right corner.
@@ -74,7 +74,7 @@ These steps have to be in order, otherwise make the search bar disappear.
 
 # info.html
 - Highlight "How are rewards calculated?" if user clicked the link from "How are rewards calculated?" in index.html.
-
+- When the user clicks 'allow notifications', a question saying something like 'allow notifications on this site?' should appear. Not on the website but from the browser itself.
 
 # End of file - All the things listed above are of extreme importance.
 - If you don't know how to do a certain task, find another way. notify me how it works if it's different from what I requested.
