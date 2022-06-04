@@ -7,7 +7,7 @@ And uh please try to center divs vertically in some webpages. Would be greatly a
 Also pls read everything before doing these because some tasks are related to different parts of the website.
 It's like task A requires both webpage B and C to fully function.
 
-Please read until finish. Thank you.
+Btw I think you should make a folder for scripts to keep things organized.
 
 # index.html
 ### div.part-1
