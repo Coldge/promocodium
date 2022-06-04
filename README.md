@@ -38,7 +38,7 @@ Those are just my social media. Ignore them.
 This is a really, really, REALLY secretive one. Remember about what I said in **dive.part-3**? Yeah like that but this one's more private and **only you and me are allowed know this**.
 
 - If I press Ctrl+shift+f, a search bar must appear with an enter button. it looks like something in **meke-meke-mooie.html**, I know the name's kinda stupid.
-The search bar has to float on the botton right corner.
+The search bar has to float on the bottom right corner.
 The search bar must have a transparent background color.
 It must not move anywhere when I scroll.
 If I hit the enter button, the search bar should disappear.
