@@ -15,8 +15,8 @@ Btw I think you should make a folder for scripts to keep things organized.
 - The form can be used again **only if a new promo code arrives.**
 - If the first person submits with the correct promocode, the info the user provided has to go in div.part-3 where I typed out "payment details blah blah blah insert whatever".
 - If the user decided to add a message (even though it's optional), also put them in the place where I typed "optional message hi".
-- If anyone else submits even though someone submitted it earlier, notify them "Sorry, someone has used this promo code earlier than you. Maybe you'll win someday, but not today."
-- If the person inputs the incorrect promocode, notify them "Sorry, I do not know such promo code."
+- If anyone else submits even though someone submitted it earlier, notify them "Sorry, someone has used this promo code earlier than you. Maybe you'll win someday, but not today." at the bottom of the form.
+- If the person inputs the incorrect promocode, notify them "Sorry, I do not know such promo code." at the bottom of the form.
 
 ### div.part-2
 - **IF AND ONLY IF** the user has made an account AND subscribed, remove the "sign up and subscribe to see" button and replace that with the actual promo code.
@@ -62,11 +62,11 @@ These steps have to be in order, otherwise make the search bar disappear.
 
 # account.html 
 - Add a button that shows a user's password in the input.
-- If user has never made an account and pressed login, notify them "Sorry, can't find that account.".
+- If user has never made an account and pressed login, notify them "Sorry, can't find that account." above the buttons.
 - If user has never made an account and pressed signup, create an account for the user and redirect them to **subscribe.html**.
 - If user has never made an account and typed a username that's already registered, please put "Username taken" under input. Otherwise don't change anything. 
-- If user has made an account before and pressed login, send them back to **index.html**. If they got their username or password incorrect, notify them "Incorrect password or username, you should've written them out.".
-- If user has made an account before and pressed signup, notify them "This account has already been registered."
+- If user has made an account before and pressed login, send them back to **index.html**. If they got their username or password incorrect, notify them "Incorrect password or username, you should've written them out." above the buttons.
+- If user has made an account before and pressed signup, notify them "This account has already been registered." above the buttons.
 - If user has made an account but decides to make another one, create the account and redirect the account to **subscribe.html**.
 
 # subscribe.html

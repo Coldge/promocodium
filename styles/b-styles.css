@@ -3,6 +3,9 @@
     font-size: 17px;
     -webkit-tap-highlight-color: transparent;
 }
+body {
+    background-color: #547eda;
+}
 ::selection{
     background-color: #547eda;
     color: white;
@@ -11,7 +14,7 @@
     background-color: white;
     border-radius: 30px;
     padding: 40px;
-    box-shadow: 0px 9px 30px rgb(226, 226, 226);
+    /* box-shadow: 0px 9px 30px #3f65b8; */
     margin: 40px;
     width: auto;
 }
